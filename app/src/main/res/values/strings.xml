@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CryptoLaure</string>
+    <string name="nav_string_settings">Réglages</string>
+    <string name="nav_string_transfert">Transfert</string>
+    <string name="nav_string_portefeuille">Portefeuille</string>
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/transactionIdText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:id="@+id/montantIdText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:text="MONTANT"
+        android:textColor="@color/colorPrimary" />
+
+    <TextView
+        android:id="@+id/adresseIdText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:text="ADDRESSE"
+        android:textColor="@color/colorPrimary" />
+
+    <TextView
+        android:id="@+id/statusIdText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:text="STATUS"
+        android:textColor="@color/colorPrimary" />
+</LinearLayout>
